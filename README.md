@@ -1,4 +1,4 @@
-C++ for Image Processing
+#C++ for Image Processing
 
 This code is part of the coursework for C++ for Image Processing course. It involves writing an image processing program in c++.
 
